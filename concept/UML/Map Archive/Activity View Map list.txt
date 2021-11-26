@@ -1,0 +1,13 @@
+@startuml
+' View map list
+
+partition User {
+(*) --> "Navigate to 'Maps' via main navigation bar"
+--> "Navigate to 'Map List' via secondary navigation bar"
+}
+partition WebPage {
+--> "Load maps json from backend"
+--> "Render map list"
+}
+--> (*)
+@enduml

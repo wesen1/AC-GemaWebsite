@@ -1,0 +1,30 @@
+View Map List
+
+1. Open Website
+2. Click on "Maps" tab in the top bar
+3. Website requests map list from backend (json data)
+
+
+Search maps
+
+1. View Map List
+2. Enter text into the text field above the map list
+
+
+View Map Details
+
+1. View Map List
+2. Click on one of the rows of the map list
+
+
+Download a map
+
+1. View Map List
+2. Click on the download button in one of the rows of the map list to download the latest available revision
+3. Alternative: View Map Details and click on the download button in one of the rows of the map revision list to download a specific revision
+
+
+Rate Map
+
+1. View Map Details
+2. Set a amount of stars in the field next to "Your Rating"
